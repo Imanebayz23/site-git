@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    margin: 0 auto;
+    max-width: 800px;
+}
+h1{
+    front-size: 50px;
+    color:aquamarine
+}
+p {
+    front-size: 22px;
+}
